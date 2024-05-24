@@ -4,7 +4,6 @@ Junior Frontend Web Developer 👩🏻‍💻
 <img align="right" width="370" height="350" src="./files/TechStack.gif">
 ### Get to Know Me 🪶
 
-
 - 🎓 Currently in my third year of studying Computer Science and Engineering
 - 💡 I enjoy exploring and developing innovative websites
 - 🌱 On track to master ReactJS
@@ -15,7 +14,9 @@ Junior Frontend Web Developer 👩🏻‍💻
 - 📫 Catch me out via : 
 <br /> <a href="https://www.linkedin.com/in/sherin-jebamalar-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sherinjebamalarm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 ### 💻 Tech Stack :
+
 #### LANGUAGES
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 #### FRAMEWORKS, PLATFORMS & LIBRARIES
@@ -26,9 +27,9 @@ Junior Frontend Web Developer 👩🏻‍💻
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
 
 ### 🔗 GitHub Insights :
-![](https://github-readme-stats.vercel.app/api?username=Sherin-Jebamalar-M&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=Sherin-Jebamalar-M&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherin-Jebamalar-M&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
