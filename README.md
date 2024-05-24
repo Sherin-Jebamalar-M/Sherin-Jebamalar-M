@@ -28,8 +28,10 @@ Junior Frontend Web Developer 👩🏻‍💻
 
 ### 🔗 GitHub Insights :
 
-![](https://github-readme-stats.vercel.app/api?username=Sherin-Jebamalar-M&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherin-Jebamalar-M&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br />
+<br />
+![](https://github-readme-stats.vercel.app/api?username=Sherin-Jebamalar-M&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) 
 
 
 
